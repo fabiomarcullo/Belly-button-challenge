@@ -41,6 +41,6 @@ Complete the following steps:
 # Results
 
 
-![HTML screenshot image](WebSite.JPG)
+![HTML screenshot image](Images/WebSite.JPG)
 
 
